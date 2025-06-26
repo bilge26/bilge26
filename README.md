@@ -6,7 +6,7 @@ ___I'm a Computer Engineering student. I'm passionate about exploring different 
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bilgeyıldırım)  
-📧 **blge.yildirm@gmail.com**
+
 
 ## 📌 GitHub Stats and Top Languages
 
