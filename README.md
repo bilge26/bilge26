@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&pause=1000&color=FF69B4&width=435&lines=HELLO!+I+AM+BILGE!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&pause=1000&color=28a745&width=435&lines=HELLO!+I+AM+BILGE!)](https://git.io/typing-svg)
 
 ___I'm a Computer Engineering student. I'm passionate about exploring different areas in software development and constantly improving myself. I enjoy learning new technologies and building creative solutions. Let's connect and grow together!___
 
