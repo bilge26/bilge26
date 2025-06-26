@@ -1,12 +1,12 @@
-# Hello! I'm Bilge  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&pause=1000&color=000000&width=435&lines=HELLO!+I+AM+BILGE!)](https://git.io/typing-svg)
+
 ___I'm a Computer Engineering student. I'm passionate about exploring different areas in software development and constantly improving myself. I enjoy learning new technologies and building creative solutions. Let's connect and grow together!___
 
-## 🚀 Skills
+## 🚀 Skills  
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,ts,js,nodejs,react,nextjs,nuxtjs,flutter,dart,postgres,redis,spring,firebase,docker,git,postman,linux)](https://skillicons.dev)
 
-## 📫 How to Reach Me
+## 📫 How to Reach Me  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bilgeyıldırım)  
-
 
 ## 📌 GitHub Stats and Top Languages
 
