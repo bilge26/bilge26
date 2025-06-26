@@ -3,7 +3,7 @@
 ___I'm a Computer Engineering student. I'm passionate about exploring different areas in software development and constantly improving myself. I enjoy learning new technologies and building creative solutions. Let's connect and grow together!___
 
 ## 🚀 Skills  
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,ts,js,nodejs,react,nextjs,nuxtjs,flutter,dart,postgres,redis,spring,firebase,docker,git,postman,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,java,ts,js,nodejs,react,nextjs,nuxtjs,flutter,dart,postgres,redis,spring,firebase,docker,git,postman)](https://skillicons.dev)
 
 ## 📫 How to Reach Me  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bilgeyıldırım)  
